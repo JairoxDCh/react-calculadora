@@ -12,7 +12,7 @@
     border: 2px solid white;
     cursor: pointer;
     border-radius: 45px;
-    user-select: none;
+    user-select: non;
 }
 
 .boton-clear:hover {
